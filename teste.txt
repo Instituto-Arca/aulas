@@ -1,0 +1,1 @@
+Testando integração do github com o discord para os commits das aulas.
